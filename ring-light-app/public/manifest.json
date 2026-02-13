@@ -1,0 +1,24 @@
+{
+  "name": "Glow Up Studio",
+  "short_name": "GlowUp",
+  "description": "Professional ring light for content creators - turn your screen into studio lighting",
+  "start_url": "/studio",
+  "display": "standalone",
+  "background_color": "#0A0A0A",
+  "theme_color": "#FF006E",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
